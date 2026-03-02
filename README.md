@@ -13,7 +13,7 @@ El entorno de laboratorio está compuesto por un nodo central (Servidor) y múlt
 ## 🛠️ Tecnologías y Herramientas
 * **SIEM/XDR:** Wazuh (Open Source)
 * **Virtualización:** VirtualBox
-* **Sistemas Operativos (Agentes):** Windows 11, Ubuntu Server, CentOS
+* **Sistemas Operativos (Agentes):** Windows 11, CentOS
 
 ## 🚀 Proceso de Despliegue
 
